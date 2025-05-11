@@ -12,19 +12,6 @@
   <a href="https://pypi.org/project/llmthinkbench/"><img src="https://img.shields.io/pypi/v/llmthinkbench" alt="PyPI"/></a>
 </div>
 
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Interactive Dashboard](#-interactive-dashboard)
-- [Benchmark Suite](#-benchmark-suite)
-- [Leaderboard](#-leaderboard)
-- [Contributing](#-contributing)
-- [Research](#-research)
-- [License](#-license)
-- [Citation](#-citation)
-
 ## 🔍 Overview
 
 LLMThinkBench is a rigorous evaluation framework designed to measure and compare the reasoning abilities of Large Language Models (LLMs). Moving beyond traditional benchmarks, LLMThinkBench specifically targets mathematical reasoning, instruction following, and computational efficiency through a comprehensive suite of tests.
@@ -95,12 +82,6 @@ The dashboard provides:
 - Key Performance Indicators for quick model comparison
 - Interactive Plotting Arena to create customized visualizations
 - Detailed Benchmark Results for in-depth analysis
-
-### Dashboard Screenshots
-
-<div align="center">
-  <img src="path/to/dashboard_screenshot.png" alt="Dashboard Screenshot" width="80%">
-</div>
 
 ## 📚 Benchmark Suite
 
