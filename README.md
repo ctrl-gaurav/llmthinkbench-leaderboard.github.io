@@ -105,7 +105,7 @@ LLMThinkBench evaluates models across multiple dimensions:
 
 ## 🏆 Leaderboard
 
-Visit our [live leaderboard](https://llmthinkbench.example.com) to see up-to-date model rankings across all benchmarks.
+Visit our [live leaderboard]([https://llmthinkbench.example.com](https://llmthinkbench-leaderboard.streamlit.app/)) to see up-to-date model rankings across all benchmarks.
 
 Current top performers:
 
